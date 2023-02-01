@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-(Link para o Repositório)[https://leandrokastilho.github.io/QR-code-component/]
+[Link para o Repositório](https://leandrokastilho.github.io/QR-code-component/)
 
 Thanks for checking out this front-end coding challenge.
 
